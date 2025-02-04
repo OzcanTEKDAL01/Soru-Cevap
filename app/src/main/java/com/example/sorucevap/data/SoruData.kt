@@ -35,7 +35,7 @@ object SoruData {
             cevap = 0
         ),
         Soru(
-            soru = "Elektriği icat eden bilim insanı kimdir?",
+            soru = "Ampulu icat eden bilim insanı kimdir?",
             sıklar = listOf("Graham Bell","Nicolas Tesla","Elon Musk","Thomas Edison","Newton"),
             cevap = 3
         ),
